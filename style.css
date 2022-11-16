@@ -1,0 +1,21 @@
+html, body {
+    margin: 0px;
+}
+
+.top {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    width: 100vw;
+    background-color: red;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100vw;
+    background-color: blue;
+}
